@@ -1,0 +1,6 @@
+FileUser/__init__.py
+FileUser.egg-info/PKG-INFO
+FileUser.egg-info/SOURCES.txt
+FileUser.egg-info/dependency_links.txt
+FileUser.egg-info/requires.txt
+FileUser.egg-info/top_level.txt
